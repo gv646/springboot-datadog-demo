@@ -248,29 +248,3 @@ This project can be integrated with CI/CD pipelines:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Gunjan Surolia**
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-
-## 🙏 Acknowledgments
-
-- DataDog for comprehensive observability documentation
-- Azure for App Service sidecar container support
-- Spring Boot community for excellent framework
-
-## 📚 Resources
-
-- [DataDog Documentation](https://docs.datadoghq.com/)
-- [Azure App Service Sidecar Containers](https://learn.microsoft.com/en-us/azure/app-service/configure-sidecar)
-- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [Docker Best Practices](https://docs.docker.com/develop/dev-best-practices/)
-
----
-
-**Built with ❤️ for learning and demonstration purposes**
