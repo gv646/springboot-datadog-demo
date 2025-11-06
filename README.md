@@ -230,13 +230,7 @@ The application uses the following environment variables:
 | `LOG_PATH` | Log file location | `/home/LogFiles` |
 | `WEBSITES_PORT` | App listening port | `8080` |
 
-## 🚦 CI/CD Integration
 
-This project can be integrated with CI/CD pipelines:
-
-- **Azure DevOps**: See `azure-pipelines.yml` (coming soon)
-- **GitHub Actions**: See `.github/workflows/deploy.yml` (coming soon)
-- **GitLab CI**: See `.gitlab-ci.yml` (coming soon)
 
 ## 📖 Additional Documentation
 
