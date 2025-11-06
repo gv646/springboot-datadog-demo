@@ -230,7 +230,16 @@ The application uses the following environment variables:
 | `LOG_PATH` | Log file location | `/home/LogFiles` |
 | `WEBSITES_PORT` | App listening port | `8080` |
 
+## 📸 Screenshots
+### Console Screenshots
 
+![AppService Home](docs/images/azure_app_service_overview.png)
+![AppService Deployment_center](docs/images/azure_app_service_deployment_center.png)
+![DataDog Home](docs/images/datadog_apm_services_homepage.png)
+![DataDog metrics](docs/images/datadog_app_service_metrics.png)
+
+
+*Spring Boot application successfully running on Azure App Service*
 
 ## 📖 Additional Documentation
 
