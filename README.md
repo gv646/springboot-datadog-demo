@@ -42,15 +42,6 @@ This project showcases how to integrate DataDog monitoring and observability int
     User API Requests
 ```
 
-## 🚀 Features
-
-- **RESTful API Endpoints**: Simple endpoints for testing
-- **Health Checks**: Built-in health monitoring
-- **Distributed Tracing**: Full request tracing with DataDog APM
-- **Centralized Logging**: Application logs sent to DataDog
-- **Custom Metrics**: Example custom metric collection
-- **Sidecar Container Pattern**: Non-invasive monitoring setup
-
 ## 📋 Prerequisites
 
 - **Java 21** (OpenJDK or Eclipse Temurin)
@@ -178,11 +169,7 @@ The script will prompt you for:
 - Azure resource names
 - DataDog API key
 - DataDog site (e.g., ap2.datadoghq.com)
-
-### Manual Deployment
-
-For step-by-step manual deployment, see [DEPLOYMENT.md](docs/DEPLOYMENT.md)
-
+- 
 ## 🔍 API Endpoints
 
 | Method | Endpoint | Description |
@@ -239,15 +226,4 @@ The application uses the following environment variables:
 ![DataDog metrics](docs/images/datadog_app_service_metrics.png)
 
 
-*Spring Boot application successfully running on Azure App Service*
 
-## 📖 Additional Documentation
-
-- [Architecture Details](docs/ARCHITECTURE.md)
-- [Deployment Guide](docs/DEPLOYMENT.md)
-- [DataDog Integration](docs/DATADOG.md)
-- [Troubleshooting](docs/TROUBLESHOOTING.md)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
